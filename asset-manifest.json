@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/order-man-app/static/css/main.bbad9ac8.css",
+    "main.js": "/order-man-app/static/js/main.cbbdb675.js",
+    "static/js/787.8a623564.chunk.js": "/order-man-app/static/js/787.8a623564.chunk.js",
+    "index.html": "/order-man-app/index.html",
+    "main.bbad9ac8.css.map": "/order-man-app/static/css/main.bbad9ac8.css.map",
+    "main.cbbdb675.js.map": "/order-man-app/static/js/main.cbbdb675.js.map",
+    "787.8a623564.chunk.js.map": "/order-man-app/static/js/787.8a623564.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbad9ac8.css",
+    "static/js/main.cbbdb675.js"
+  ]
+}
